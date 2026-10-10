@@ -1,0 +1,178 @@
+{
+  "parish": {
+    "name": { "nl": "Parochie Sint-Niklaas Herfelingen", "fr": "Paroisse Saint-Nicolas d'Herfelingen" },
+    "zone": { "nl": "Pastorale zone Bever-Galmaarden-Herne", "fr": "Zone pastorale Biévène-Gammerages-Herne" },
+    "address": "Molenstraat 1, 1540 Herfelingen",
+    "contactUrl": "https://www.kerknet.be/parochie-st-niklaas-herfelingen/contact"
+  },
+
+  "churches": [
+    {
+      "id": "herfelingen",
+      "name": { "nl": "Sint-Niklaaskerk", "fr": "Église Saint-Nicolas" },
+      "place": "Herfelingen",
+      "patron": { "nl": "Sint-Niklaas (feestdag 6 december)", "fr": "saint Nicolas (fête le 6 décembre)" },
+      "address": "Sint-Niklaasstraat, 1540 Herfelingen (Pajottegem)",
+      "coords": { "lat": 50.74806, "lng": 4.09667 },
+      "kerknet": "https://www.kerknet.be/kerk/sint-niklaas-kerk-herfelingen",
+
+      "schedule": {
+        "timezone": "Europe/Brussels",
+        "weekly": [
+          { "weekday": 0, "time": "10:45", "durationMinutes": 60, "type": "eucharist" }
+        ],
+        "exceptions": []
+      },
+
+      "facts": [
+        { "label": { "nl": "Gebouwd", "fr": "Construite" }, "value": "1781" },
+        { "label": { "nl": "Toren", "fr": "Tour" }, "value": "1904" },
+        { "label": { "nl": "Stijl", "fr": "Style" }, "value": { "nl": "Classicisme", "fr": "Classicisme" } },
+        { "label": { "nl": "Beschermd", "fr": "Protégée" }, "value": { "nl": "Bouwkundig erfgoed", "fr": "Patrimoine architectural" } }
+      ],
+
+      "history": [
+        {
+          "year": { "nl": "Middeleeuwen", "fr": "Moyen Âge" },
+          "title": { "nl": "Een dochter van Kester", "fr": "Une fille de Kester" },
+          "text": {
+            "nl": "De parochie Herfelingen ontstond als afsplitsing van de Sint-Martinusparochie van Kester. Het patronaatsrecht – het recht om de pastoor voor te dragen – lag tot aan de Franse Revolutie bij het kapittel van Sint-Waltrudis in Bergen (Mons).",
+            "fr": "La paroisse d'Herfelingen est née d'un démembrement de la paroisse Saint-Martin de Kester. Le droit de patronage – le droit de présenter le curé – appartint jusqu'à la Révolution française au chapitre de Sainte-Waudru à Mons."
+          },
+          "source": "wiki-herfelingen"
+        },
+        {
+          "year": { "nl": "Ancien régime", "fr": "Ancien Régime" },
+          "title": { "nl": "Henegouws grensdorp", "fr": "Village frontière hennuyer" },
+          "text": {
+            "nl": "Samen met Oetingen en Kester vormde Herfelingen het Kestergewoud, bestuurd door een meier en een schepenbank. Het gebied hoorde bij de baljuwij Edingen en daarmee bij het graafschap Henegouwen. De kerkfabriek hield vanaf de jaren 1630 rekeningen bij die vandaag in het Rijksarchief bewaard worden.",
+            "fr": "Avec Oetingen et Kester, Herfelingen formait le « Kestergewoud », administré par un maïeur et un banc échevinal. Le territoire relevait du bailliage d'Enghien et donc du comté de Hainaut. La fabrique d'église tenait des comptes dès les années 1630 ; ils sont aujourd'hui conservés aux Archives de l'État."
+          },
+          "source": "wiki-herfelingen,arch"
+        },
+        {
+          "year": "1781",
+          "title": { "nl": "Een nieuwe, classicistische kerk", "fr": "Une nouvelle église classique" },
+          "text": {
+            "nl": "In 1781 werd de huidige kerk gebouwd in classicistische stijl: een driebeukige hallenkerk in baksteen met een rechte koorsluiting en een sacristie onder lessenaarsdak tegen de oostgevel.",
+            "fr": "En 1781 fut bâtie l'église actuelle, de style classique : une église-halle à trois nefs en brique, au chœur à chevet plat, avec une sacristie sous toit en appentis contre le mur oriental."
+          },
+          "source": "oe-39639,wiki-kerk"
+        },
+        {
+          "year": "1904",
+          "title": { "nl": "Toren en westelijke traveeën", "fr": "La tour et les travées occidentales" },
+          "text": {
+            "nl": "In 1904 werd de kerk naar het westen verlengd en kreeg ze haar ingebouwde westtoren, in dezelfde stijl. Een opschrift onder de toren noemt pastoor F. Moens, de bouwmeesters Charles De Maeght en Gustave Vanden Bemden en de aannemers J.B. en J.F. Raemdonck.",
+            "fr": "En 1904, l'église fut prolongée vers l'ouest et reçut sa tour occidentale intégrée, dans le même style. Une inscription sous la tour mentionne le curé F. Moens, les architectes Charles De Maeght et Gustave Vanden Bemden et les entrepreneurs J.B. et J.F. Raemdonck."
+          },
+          "source": "oe-39639"
+        },
+        {
+          "year": { "nl": "Interieur", "fr": "Intérieur" },
+          "title": { "nl": "Schatten binnenin", "fr": "Trésors intérieurs" },
+          "text": {
+            "nl": "Binnen staan drie altaren afkomstig uit de voormalige priorij van Groenendaal, een rococopreekstoel uit het midden van de 18de eeuw en een zestiende-eeuws beeld van Christus op de koude steen. Het schilderij De aanbidding door de herders wordt toegeschreven aan Gaspar de Crayer.",
+            "fr": "L'intérieur abrite trois autels provenant de l'ancien prieuré de Groenendael, une chaire rococo du milieu du XVIIIe siècle et une statue du Christ aux liens du XVIe siècle. Le tableau L'Adoration des bergers est attribué à Gaspar de Crayer."
+          },
+          "source": "wiki-kerk"
+        },
+        {
+          "year": "1973",
+          "title": { "nl": "Grote restauratie", "fr": "Grande restauration" },
+          "text": {
+            "nl": "Begin jaren 1970 werd de toren gerestaureerd en werd het interieur volledig ontpleisterd. Het meubilair werd tijdelijk weggehaald. De foto's in de galerij tonen de kerk in de steigers.",
+            "fr": "Au début des années 1970, la tour fut restaurée et l'intérieur entièrement décrépi ; le mobilier fut temporairement enlevé. Les photos de la galerie montrent l'église sous échafaudages."
+          },
+          "source": "oe-39639"
+        },
+        {
+          "year": "1977 – 2025",
+          "title": { "nl": "Van Herfelingen naar Pajottegem", "fr": "D'Herfelingen à Pajottegem" },
+          "text": {
+            "nl": "Bij de fusie van 1977 werd Herfelingen een deelgemeente van Herne; sinds 2025 hoort het bij de fusiegemeente Pajottegem. De kerk is sinds 2009 vastgesteld bouwkundig erfgoed; die vaststelling werd in 2021 vernieuwd.",
+            "fr": "Lors de la fusion de 1977, Herfelingen devint une section de Herne ; depuis 2025, elle fait partie de la nouvelle commune de Pajottegem. L'église figure depuis 2009 à l'inventaire du patrimoine architectural ; cette inscription a été renouvelée en 2021."
+          },
+          "source": "oe-121442,oe-39639,wiki-herfelingen"
+        }
+      ],
+
+      "village": {
+        "nl": "Herfelingen ligt in het Pajottenland, op een smalle waterscheidingskam tussen de bekkens van de Dender en de Zenne. De Steenweg op Asse volgt het tracé van een oude Romeinse weg. Het golvende landschap met bronnen, holle wegen en grote hoeves zoals Hof ter Hagen bepaalt nog altijd het uitzicht van het dorp.",
+        "fr": "Herfelingen se situe dans le Pajottenland, sur une étroite ligne de crête entre les bassins de la Dendre et de la Senne. La chaussée d'Asse suit le tracé d'une ancienne voie romaine. Le paysage vallonné, avec ses sources, ses chemins creux et ses grandes fermes comme la Hof ter Hagen, marque toujours le village."
+      },
+
+      "gallery": [
+        {
+          "src": "kerk-portaal.webp", "srcSmall": "kerk-portaal-sm.webp", "width": 1200, "height": 1600,
+          "alt": { "nl": "Vooraanzicht van de bakstenen Sint-Niklaaskerk met portaal en toren", "fr": "Vue frontale de l'église Saint-Nicolas en brique, avec portail et tour" },
+          "caption": { "nl": "Voorgevel en portaal (2021)", "fr": "Façade et portail (2021)" },
+          "author": "Hilke Arijs", "license": "CC BY-SA 4.0", "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Herfelingen_(Herne)_Kerk2.jpg"
+        },
+        {
+          "src": "kerk-voorgevel.webp", "srcSmall": "kerk-voorgevel-sm.webp", "width": 1200, "height": 1600,
+          "alt": { "nl": "De kerk schuin van voren gezien, met toren en zijgevel", "fr": "L'église vue de trois quarts, avec la tour et la façade latérale" },
+          "caption": { "nl": "Toren en zijgevel (2021)", "fr": "Tour et façade latérale (2021)" },
+          "author": "Hilke Arijs", "license": "CC BY-SA 4.0", "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Herfelingen_(Herne)_Kerk1.jpg"
+        },
+        {
+          "src": "kerk-2015.webp", "srcSmall": "kerk-2015-sm.webp", "width": 1059, "height": 1600,
+          "alt": { "nl": "De kerk gezien vanuit een smal straatje tussen bakstenen muren", "fr": "L'église vue depuis une ruelle entre des murs de brique" },
+          "caption": { "nl": "Zicht vanuit de dorpskern (2015)", "fr": "Vue depuis le centre du village (2015)" },
+          "author": "Funkyxian", "license": "CC BY-SA 3.0", "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parochiekerk_Sint-Niklaas,_Herfelingen.jpg"
+        },
+        {
+          "src": "kerk-2006.webp", "srcSmall": "kerk-2006-sm.webp", "width": 1200, "height": 1600,
+          "alt": { "nl": "De kerk onder een blauwe zomerlucht", "fr": "L'église sous un ciel d'été bleu" },
+          "caption": { "nl": "Zomer 2006", "fr": "Été 2006" },
+          "author": "David Edgar", "license": "CC BY-SA 3.0", "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:SintNiklaasHerfelingen.jpg"
+        },
+        {
+          "src": "kerk-restauratie-toren.webp", "srcSmall": "kerk-restauratie-toren-sm.webp", "width": 1051, "height": 1600,
+          "alt": { "nl": "Zwart-witfoto van de toren in de steigers", "fr": "Photo noir et blanc de la tour sous échafaudages" },
+          "caption": { "nl": "Restauratie van de toren (jaren 1970)", "fr": "Restauration de la tour (années 1970)" },
+          "author": "Vlaamse Gemeenschap", "license": "CC BY 4.0", "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Herne_Sint-Niklaasstraat_zonder_nummer_-_286508_-_onroerenderfgoed.jpg"
+        },
+        {
+          "src": "kerk-zijgevel-1973.webp", "srcSmall": "kerk-zijgevel-1973-sm.webp", "width": 1600, "height": 1023,
+          "alt": { "nl": "Zwart-witfoto van de zijgevel tijdens de werken, ramen dichtgemaakt", "fr": "Photo noir et blanc de la façade latérale pendant les travaux" },
+          "caption": { "nl": "Zijgevel tijdens de werken (1973)", "fr": "Façade latérale pendant les travaux (1973)" },
+          "author": "Vlaamse Gemeenschap", "license": "CC BY 4.0", "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Herne_Sint-Niklaasstraat_zonder_nummer_-_286509_-_onroerenderfgoed.jpg"
+        },
+        {
+          "src": "kerk-koor-1973.webp", "srcSmall": "kerk-koor-1973-sm.webp", "width": 1073, "height": 1600,
+          "alt": { "nl": "Zwart-witfoto van het vlak gesloten koor en de sacristie", "fr": "Photo noir et blanc du chœur à chevet plat et de la sacristie" },
+          "caption": { "nl": "Koor en sacristie (1973)", "fr": "Chœur et sacristie (1973)" },
+          "author": "Vlaamse Gemeenschap", "license": "CC BY 4.0", "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Herne_Sint-Niklaasstraat_zonder_nummer_-_286510_-_onroerenderfgoed.jpg"
+        }
+      ]
+    },
+
+    { "id": "herne",     "name": { "nl": "Sint-Petrus-en-Pauluskerk", "fr": "Église Saints-Pierre-et-Paul" }, "place": "Herne",     "kerknet": "https://www.kerknet.be/kerk/sint-petrus-en-paulus-kerk-herne" },
+    { "id": "kester",    "name": { "nl": "Sint-Martinuskerk", "fr": "Église Saint-Martin" },                  "place": "Kester",    "kerknet": "https://www.kerknet.be/kerk/sint-martinus-kerk-kester" },
+    { "id": "kokejane",  "name": { "nl": "Onze-Lieve-Vrouwkerk", "fr": "Église Notre-Dame" },                  "place": "Kokejane",  "kerknet": "https://www.kerknet.be/kerk/o-l-vrouw-kerk-kokejane" },
+    { "id": "heikruis",  "name": { "nl": "Sint-Bernarduskerk", "fr": "Église Saint-Bernard" },                 "place": "Heikruis",  "kerknet": "https://www.kerknet.be/kerk/sint-bernardus-kerk-heikruis" },
+    { "id": "oetingen",  "name": { "nl": "Sint-Ursmaruskerk", "fr": "Église Saint-Ursmer" },                   "place": "Oetingen",  "kerknet": "https://www.kerknet.be/kerk/sint-ursmarus-kerk-oetingen" },
+    { "id": "bogaarden", "name": { "nl": "Sint-Theodarduskerk", "fr": "Église Saint-Théodard" },               "place": "Bogaarden", "kerknet": "https://www.kerknet.be/kerk/sint-theodardus-kerk-bogaarden" },
+    { "id": "bellingen", "name": { "nl": "Onze-Lieve-Vrouwkerk", "fr": "Église Notre-Dame" },                  "place": "Bellingen", "kerknet": "https://www.kerknet.be/kerk/o-l-vrouw-kerk-bellingen" },
+    { "id": "pepingen",  "name": { "nl": "Sint-Martinuskerk", "fr": "Église Saint-Martin" },                  "place": "Pepingen",  "kerknet": "https://www.kerknet.be/kerk/sint-martinus-kerk-pepingen" },
+    { "id": "leerbeek",  "name": { "nl": "Sint-Pieterskerk", "fr": "Église Saint-Pierre" },                    "place": "Leerbeek",  "kerknet": "https://www.kerknet.be/kerk/sint-pieter-kerk-leerbeek" },
+    { "id": "gooik",     "name": { "nl": "O.-L.-Vrouw van Goede Bijstand", "fr": "Notre-Dame de Bon Secours" }, "place": "Gooik",   "kerknet": "https://www.kerknet.be/kerk/o-l-vrouw-van-goede-bijstand-kerk-gooik" },
+    { "id": "lieferinge","name": { "nl": "O.-L.-Vrouw-Lichtmiskerk", "fr": "Église Notre-Dame de la Chandeleur" }, "place": "Lieferinge", "kerknet": "https://www.kerknet.be/kerk/o-l-vrouw-lichtmis-ninove-lieferinge" }
+  ],
+
+  "sources": {
+    "oe-39639":         { "title": "Inventaris Onroerend Erfgoed – Parochiekerk Sint-Niklaas (39639)", "url": "https://inventaris.onroerenderfgoed.be/erfgoedobjecten/39639" },
+    "oe-121442":        { "title": "Inventaris Onroerend Erfgoed – Herfelingen (121442)", "url": "https://inventaris.onroerenderfgoed.be/erfgoedobjecten/121442" },
+    "wiki-kerk":        { "title": "Wikipedia – Sint-Niklaaskerk (Herfelingen)", "url": "https://nl.wikipedia.org/wiki/Sint-Niklaaskerk_(Herfelingen)" },
+    "wiki-herfelingen": { "title": "Wikipedia – Herfelingen", "url": "https://nl.wikipedia.org/wiki/Herfelingen" },
+    "arch":             { "title": "Rijksarchief – Archief parochie Sint-Niklaas Herfelingen", "url": "https://search.arch.be/ead/pdf/BE-A0518_716476_800258_DUT.ead.pdf" }
+  }
+}

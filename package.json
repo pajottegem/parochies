@@ -1,0 +1,10 @@
+{
+  "name": "parochie-herfelingen",
+  "private": true,
+  "type": "module",
+  "description": "Website van de parochie Sint-Niklaas Herfelingen — no build step, plain HTML/CSS/JS.",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "test": "node --test"
+  }
+}
